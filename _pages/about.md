@@ -13,6 +13,7 @@ I am a mathematician, instructor and Head of the Department of Mathematics and t
 Coordinates
 ======
 mailing address: | office:
+---|---
 Mathematical Institute | Hans Freudenthal Building
 Utrecht University | Budapestlaan 6
 P.O. Box 80010 | 3584 CD Utrecht
