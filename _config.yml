@@ -78,9 +78,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "prof.dr.ir. Jason E. Frank"
-  avatar           : "profile.png"
-  bio              : "Chair, Department of Mathematics"
+  name             : "Jason Frank"
+  avatar           : "portrait.png"
+  bio              : "Professor of Numerical Analysis, Mathematical Institute, Utrecht University"
   location         : "Utrecht, the Netherlands"
   employer         : "Utrecht University"
   googlescholar    : "https://scholar.google.nl/citations?user=qlM9GXcAAAAJ&hl=en"
