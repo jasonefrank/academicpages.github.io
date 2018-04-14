@@ -81,8 +81,8 @@ author:
   name             : "Jason Frank"
   avatar           : "SquareHead.png"
   bio              : "Professor of Numerical Analysis, Utrecht University"
-  location         : "Utrecht, the Netherlands"
-  employer         : "Utrecht University"
+  location         : "Utrecht University"
+  employer         : 
   googlescholar    : "https://scholar.google.nl/citations?user=qlM9GXcAAAAJ&hl=en"
   email            : "j.e.frank@uu.nl"
   uri              :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jasonefrank"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
