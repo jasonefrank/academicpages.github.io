@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "Head of Department of Mathematics"
+title: "prof.dr.ir. Jason E. Frank"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+I am a mathematician, instructor and Head of the Department of Mathematics and the Mathematical Institute in the Faculty of Science of Utrecht University.  I teach courses on Mathematical Modelling and the Mathematics of Complex Systems.  My research combines numerical analysis and computational mathematics, dynamical systems, and multiscale modelling and data assimilation. I am interested in applications of mathematics in atmosphere/ocean/climate science, earth and life sciences and economics.
 
 Affiliations
 ======
