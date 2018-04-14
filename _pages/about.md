@@ -12,14 +12,11 @@ I am a mathematician, instructor and Head of the Department of Mathematics and t
 
 Coordinates
 ======
-Mathematical Institute
-Utrecht University
-P.O. Box 80010
-3508 TA Utrecht
-the Netherlands 
+Mathematical Institute, Utrecht University,
+P.O. Box 80010, 3508 TA Utrecht, the Netherlands 
 
 office: 
-Hans Freudenthal Building, Room 713
+Hans Freudenthal Building, Room 713,
 Budapestlaan 6, 3584 CD Utrecht
 
 tel: +31 302532549
