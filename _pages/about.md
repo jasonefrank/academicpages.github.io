@@ -10,6 +10,15 @@ redirect_from:
 
 I am a mathematician, instructor and Head of the Department of Mathematics and the Mathematical Institute in the Faculty of Science of Utrecht University.  I teach courses on Mathematical Modelling and the Mathematics of Complex Systems.  My research combines numerical analysis and computational mathematics, dynamical systems, and multiscale modelling and data assimilation. I am interested in applications of mathematics in atmosphere/ocean/climate science, earth and life sciences and economics.
 
+Coordinates
+======
+mailing address: | office:
+Mathematical Institute | Hans Freudenthal Building
+Utrecht University | Budapestlaan 6
+P.O. Box 80010 | 3584 CD Utrecht
+3508 TA Utrecht | the Netherlands
+the Netherlands | tel: +31 302532549
+
 Affiliations
 ======
 - Head of the Department of Mathematics, Faculty of Science, Utrecht University
