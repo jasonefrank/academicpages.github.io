@@ -39,6 +39,3 @@ Research Interests
 - Complex systems science: dynamics on networks, synchronization, transitions. Applications in economics and finance, biology, technology.
 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
