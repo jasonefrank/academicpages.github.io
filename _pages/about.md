@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Head of Department of Mathematics, Utrecht University"
+title: "Head of Department of Mathematics"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
