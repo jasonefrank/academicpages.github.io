@@ -1,12 +1,21 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Head of Department of Mathematics, Utrecht University"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Affiliations
+======
+- Head of the Department of Mathematics, Faculty of Science, Utrecht University
+- Professor, Chair of Numerical Analysis, Mathematical Institute, Utrecht University
+- Editorial Board, [SIAM Journal on Scientific Computing] (https://www.siam.org/journals/sisc.php)
+- Board member, National Mathematics Cluster [NDNS+ (Nonlinear Dynamics of Natural Systems)] (https://www.ndns.nl)
+- Board member, [Dutch-Flemish Scientific Computing Society] (https://wsc.project.cwi.nl)
+- Advisory board member, [Centre for Complex Systems Studies] (https://www.uu.nl/en/research/centre-for-complex-systems-studies-ccss)
 
 Research Interests
 ======
