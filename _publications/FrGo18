@@ -2,13 +2,14 @@
 title: "A note on statistical consistency of numerical integrators for multi-scale dynamics"
 collection: publications
 permalink: /publication/FrGo18
-excerpt: ''
+excerpt: 'A minimal requirement for simulating multi-scale systems is '
 date: 2018-04-15
 venue: 'Multiscale Modeling and Simulation'
 paperurl: 'https://arxiv.org/abs/1804.04208'
-citation: 'J. Frank &amp; G. A. Gottwald, &quot;A note on statistical consistency of numerical integrators for multi-scale dynamics&quot;, Multiscale Modelling and Simulation, to appear, 2018.'
+citation: 'J. Frank &amp; G. A. Gottwald, &quot;A note on statistical consistency of numerical integrators for multi-scale dynamics&quot;, <i>Multiscale Modelling and Simulation</i>, to appear, 2018.'
 ---
+A minimal requirement for simulating multi-scale systems is 
 
 [Download paper here](https://arxiv.org/abs/1804.04208)
 
-Recommended citation: J. Frank &amp; G. A. Gottwald, &quot;A note on statistical consistency of numerical integrators for multi-scale dynamics&quot;, Multiscale Modelling and Simulation, to appear, 2018.
+Recommended citation: J. Frank &amp; G. A. Gottwald, &quot;A note on statistical consistency of numerical integrators for multi-scale dynamics&quot;, <i>Multiscale Modelling and Simulation</i>, to appear, 2018.
