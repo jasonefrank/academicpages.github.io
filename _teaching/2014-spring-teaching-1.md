@@ -1,20 +1,19 @@
 ---
-title: "Teaching experience 1"
+title: "WISM489 - Introduction to Complex Systems"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Graduate course"
+permalink: /teaching/2017_fall_complex_systems
+venue: "Utrecht University, Mathematical Sciences"
+date: 2017-09-01
+location: "Utrecht, the Netherlands"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This course is required for the specialization Complex Systems and recommended for the Profile of the GSNS. The goal is to introduce students from different backgrounds to the main mathematical constructions encountered in complex systems studies.
 
-Heading 1
-======
+Main Header
+===
 
-Heading 2
-======
+Sub header
+---
 
-Heading 3
-======
+
