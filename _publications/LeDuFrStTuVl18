@@ -1,0 +1,15 @@
+---
+title: "Projected Shadowing-based Data Assimilation"
+collection: publications
+permalink: /publication/LeDuFrStTuVl18
+excerpt: 'In this article we develop algorithms for data assimilation based upon a computational time dependent stable/unstable splitting. Our particular method is based upon shadowing refinement and synchronization techniques and is motivated by work on Assimilation in the Unstable Subspace (AUS) and Pseudo-orbit Data Assimilation (PDA). The algorithm utilizes time dependent projections onto the non-stable subspace determined by employing computational techniques for Lyapunov exponents/vectors. The method is extended to parameter estimation without changing the problem dynamics and we address techniques for adapting the method when (as is commonly the case) observations are not available in the full model state space. We use a combination of analysis and numerical experiments (with the Lorenz 63 and Lorenz 96 models) to illustrate the efficacy of the techniques and show that the results compare favorably with other variational techniques.'
+date: 2018-04-15
+venue: 'Submitted'
+paperurl: 'https://arxiv.org/abs/1707.09264'
+citation: 'B. M. de Leeuw, S. Dubinkina, J. Frank, A. Steyer, X. Tu &amp; E.S. van Vleck, &quot;Projected Shadowing-based Data Assimilation&quot;, submitted, 2018.'
+---
+In this article we develop algorithms for data assimilation based upon a computational time dependent stable/unstable splitting. Our particular method is based upon shadowing refinement and synchronization techniques and is motivated by work on Assimilation in the Unstable Subspace (AUS) and Pseudo-orbit Data Assimilation (PDA). The algorithm utilizes time dependent projections onto the non-stable subspace determined by employing computational techniques for Lyapunov exponents/vectors. The method is extended to parameter estimation without changing the problem dynamics and we address techniques for adapting the method when (as is commonly the case) observations are not available in the full model state space. We use a combination of analysis and numerical experiments (with the Lorenz 63 and Lorenz 96 models) to illustrate the efficacy of the techniques and show that the results compare favorably with other variational techniques.
+
+[Download paper here](https://arxiv.org/abs/1707.09264)
+
+Recommended citation: B. M. de Leeuw, S. Dubinkina, J. Frank, A. Steyer, X. Tu &amp; E.S. van Vleck, &quot;Projected Shadowing-based Data Assimilation&quot;, submitted, 2018.
