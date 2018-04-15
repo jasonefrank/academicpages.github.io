@@ -12,9 +12,9 @@ redirect_from:
 
 Education
 -----
-1996-2000 : Ph.D. Technische Universiteit Delft, Delft, the Netherlands.  Numerical analysis and scientific computing.  Thesis: <i>Efficient Algorithms for the Numerical Solution of Differential Equations</i>, 17 April 2000. Supervisors: P. Wesseling, P.J. van der Houwen, C. Vuik.
-1992-1994 : M.Sc. University of Kansas, Lawrence, Kansas, U.S.A. Aerospace Engineering.
-1988-1992 : B.Sc. University of Kansas, Lawrence, Kansas, U.S.A. Aerospace Engineering.
+* 1996-2000 : Ph.D. Technische Universiteit Delft, Delft, the Netherlands.  Numerical analysis and scientific computing.  Thesis: <i>Efficient Algorithms for the Numerical Solution of Differential Equations</i>, 17 April 2000. Supervisors: P. Wesseling, P.J. van der Houwen, C. Vuik.
+* 1992-1994 : M.Sc. University of Kansas, Lawrence, Kansas, U.S.A. Aerospace Engineering.
+* 1988-1992 : B.Sc. University of Kansas, Lawrence, Kansas, U.S.A. Aerospace Engineering.
 
 Work experience
 -----
