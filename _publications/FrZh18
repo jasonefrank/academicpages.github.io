@@ -3,7 +3,7 @@ title: "A detectability criterion and data assimilation for non-linear different
 collection: publications
 permalink: /publication/FrZh18
 excerpt: 'In this paper we propose a new sequential data assimilation method for non-linear ordinary differential equations with compact state space. The method is designed so that the Lyapunov exponents of the corresponding estimation error dynamics are negative, i.e. the estimation error decays exponentially fast. The latter is shown to be the case for generic regular flow maps if and only if the observation matrix H satisfies detectability conditions: the rank of H must be at least as great as the number of nonnegative Lyapunov exponents of the underlying attractor. Numerical experiments illustrate the exponential convergence of the method and the sharpness of the theory for the case of Lorenz96 and Burgers equations with incomplete and noisy observations.'
-date: 2018
+date: 2018-04-15
 venue: 'Submitted'
 paperurl: 'https://arxiv.org/abs/1711.05039'
 citation: 'J. Frank &amp; S. Zhuk, &quot;A detectability criterion and data assimilation for non-linear differential equations&quot;, <i>submitted</i>, 2017.'
