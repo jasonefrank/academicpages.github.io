@@ -10,10 +10,5 @@ location: "Utrecht, the Netherlands"
 
 This course is required for the specialization Complex Systems and recommended for the Profile of the GSNS. The goal is to introduce students from different backgrounds to the main mathematical constructions encountered in complex systems studies.
 
-Main Header
-===
-
-Sub header
----
 
 
